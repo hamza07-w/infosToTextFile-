@@ -1,7 +1,7 @@
 # infosToTextFile-
-files
-This script ask the user to enter informations
-so that the script can convert all informations
-to test file in organizated style, /*
-Hamza El ansari
-*/
+
+
+
+
+
+Files is a script that asks the user to enter some infos so that the script converts all these infos to a text file in a organized style, /* Hamza El ansari */
